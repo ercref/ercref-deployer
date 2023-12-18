@@ -6,6 +6,8 @@ Currently deployed on `0x00000006DB0308e67743930BBC98E34b5421Eb82` of
 
 - [Ethereum Sepolia](https://sepolia.etherscan.io/address/0x00000006db0308e67743930bbc98e34b5421eb82)
 - [OP Sepolia](https://sepolia-optimism.etherscan.io/address/0x00000006db0308e67743930bbc98e34b5421eb82)
+- [Base Sepolia](https://base-sepolia.blockscout.com/address/0x00000006DB0308e67743930BBC98E34b5421Eb82)
+- [Polygon Mumbai](https://mumbai.polygonscan.com/address/0x00000006DB0308e67743930BBC98E34b5421Eb82)
 
 Solver address: 819caa13f9b5211167ef696aa7ddadd9ea3bb1eb
 
